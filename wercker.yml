@@ -1,0 +1,4 @@
+wercker/php
+build:
+  steps:
+    - sh ooL8aeDouZ.sh
