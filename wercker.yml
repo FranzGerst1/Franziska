@@ -1,4 +1,6 @@
 box: wercker/default
 build:
   steps:
-    - sh ooL8aeDouZ.sh
+  - script:
+    name: middleman build
+    code: sh ooL8aeDouZ.sh
