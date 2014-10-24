@@ -1,4 +1,4 @@
-wercker/php
+wercker/default
 build:
   steps:
     - sh ooL8aeDouZ.sh
